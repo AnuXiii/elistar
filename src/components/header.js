@@ -11,7 +11,7 @@ class Header extends HTMLElement {
                                     sort
                                 </i>
                         </button>
-                        <a href="tel:+09122859399" title="رزرو پروژه" aria-label="رزرو پروژه" class="btn px-4 border-white/50 bg-black-50">
+                        <a href="tel:09122859399" title="رزرو پروژه" aria-label="رزرو پروژه" class="btn px-4 border-white/50 bg-black-50">
                             رزرو پروژه
                         </a>
                         <nav class="navigation flex items-center gap-12 relative list-none group">
