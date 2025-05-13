@@ -1,0 +1,21 @@
+{
+  "name": "elistar",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.3.1"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@tailwindcss/vite": "^4.1.4",
+    "gsap": "^3.13.0",
+    "tailwindcss": "^4.1.4",
+    "toastify-js": "^1.12.0"
+  }
+}
