@@ -37,6 +37,7 @@ class Header extends HTMLElement {
                     </div>
                 </section>
             </header>
+			<div class="h-[80px] md:h-[110px]"></div>
         `;
 	}
 }
